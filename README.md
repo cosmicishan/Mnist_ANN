@@ -1,2 +1,4 @@
 # Mnist_ANN
 Training Artificial Neural Network for Mnist Dataset
+
+This is a Python notebook that demonstrates the use of artificial neural networks (ANN) for image classification. The project uses the MNIST dataset, which consists of 60,000 training images of handwritten digits and 10,000 test images. The notebook walks through the process of loading, visualizing, splitting, and preprocessing the data, building an ANN model, and training and evaluating the model. The model has 2 hidden layers and an output layer with 10 neurons, and is trained using the sparse categorical cross-entropy loss function and stochastic gradient descent optimizer. The accuracy of the model is evaluated using the test set, and sample test images are plotted along with their predicted and actual labels. The notebook also includes visualizations of the dataset and the model's training history.
